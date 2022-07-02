@@ -1,0 +1,9 @@
+.click{cursor: pointer;}
+.green-icon{color: green;}
+.red-icon{color: red;}
+.icon-tmn{font-size:1.5rem !important ; margin-top: 1rem !important; }
+.conten{padding: .004% !important;}
+.main{width: auto;}
+.adds{margin-left: auto; margin-right: auto; margin-top: 1rem; width: 25rem; background-color: rgba(0, 0, 0, 0.349) !important; opacity: 1; color: rgb(255, 255, 255); border-bottom: solid .3rem rgb(168, 0, 0);}
+.addsv{background-color: rgba(0, 0, 0, 0.349) !important; opacity: 1; color: rgb(255, 255, 255); border-bottom: solid .3rem rgb(168, 0, 0); height: 32rem;}
+.br{overflow: auto !important; }
